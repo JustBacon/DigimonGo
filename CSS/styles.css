@@ -7,10 +7,10 @@
 	height: 0;
 }
 h1 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Baloo Bhai', cursive;
 }
 body {
-	font-family: 'Baloo Bhai', cursive;
+	font-family: 'Lato', sans-serif;
 	font-size: 18px;
 }
 .menu {
@@ -26,26 +26,29 @@ body {
 	background-image: url('../Assets/hero.png');
 	background-repeat: no-repeat;
 	background-position: right;
+	background-color: lightblue;
 }
 .container {
 	border-radius: 8px;
 	background-color: lavender;
-	width: 650px;
-	height: 400px;
+	width: 450px;
+	height: 300px;
+	float: left;
 
 }
 .talkie {
-	float: right;
-	position: relative;
-	bottom: 75px;
+	position:;
+	width: 75%;
 	height: 75%;
 }
 
 .container1 {
+    border-radius: 8px;
     width: 30%;
-    height: 40%;
-    background-color: blue;
+    height: 50%;
+    background-color: lavender;
     margin: 120px 20px;
     padding: 1px 10px;
+    float: left;
 }
 
